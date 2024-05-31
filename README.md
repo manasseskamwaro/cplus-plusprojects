@@ -1,2 +1,2 @@
-# cplus-plusprojects
+# cplus-plusandpythonprojects
 c++ projects created by manasse kariuki kamwaro
