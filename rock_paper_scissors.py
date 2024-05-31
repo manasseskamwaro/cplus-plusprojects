@@ -1,7 +1,3 @@
-# 0 for rock,1 for paper,2 for scissors
-# rock over scissors
-# scissors over paper
-# paper over rock
 import random
 user_choice = int(input("Enter your choice:Type 0 for rock,1 for paper,2 for scissors.:"))
 if user_choice >=3 or user_choice < 0:
